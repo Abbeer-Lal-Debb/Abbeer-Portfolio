@@ -24,7 +24,7 @@ navbar_link.forEach(element => element.addEventListener("click", ()=>{
 // ========================================
 
 var typingEffect = new Typed(".typedText",{
-    strings : ["Web Developer","ServiceNow Developer","Programmer!"],
+    strings : ["Software Developer","FullStack Developer","Programmer!"],
     loop : true,
     typeSpeed : 65, 
     backSpeed : 35,
